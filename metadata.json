@@ -1,0 +1,6 @@
+{
+  "name": "NAB Document & KYC Verification Agent",
+  "description": "Drop-in starter kit and live verification agent for NAB Document & KYC onboarding. Features function calling, multimodal extraction, policy cross-checking, and human-in-the-loop review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
